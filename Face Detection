@@ -1,0 +1,7 @@
+It's a good idea to detect and crop just the face portion and then apply the fisher face technique.
+
+Viola Jones is one of the optimal techniques for face detection.
+
+Follow the link:
+
+http://docs.opencv.org/trunk/doc/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
